@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1787759030 source:c:\users\usuario\downloads\arregloalumno\main.cpp
+	<iostream>
+	"Alumno.h"
+	"Arreglo.h"
+
+1787759041 c:\users\usuario\downloads\arregloalumno\alumno.h
+
+1787759048 c:\users\usuario\downloads\arregloalumno\arreglo.h
+
